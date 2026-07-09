@@ -50,6 +50,9 @@ This bass is a tribute to free software, a slightly quirky sense of humor, and e
 That typo? It’s a feature, not a bug.
 If you like this idea and want to see what I build next, follow me, please!
 
+P.S. I’m honestly exhausted. I’ll run the project through a tuner later to fix the pitch drift in the high register when I’ve got more energy, but for now, I’m completely out of fuel. 
+My apologies—please go easy on the high notes until I get back to it!
+
 # ⚙️ Pipeline (Instructions)
 
 All operations are performed in the venv virtual environment to keep your system clean.
