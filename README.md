@@ -11,13 +11,10 @@
 **A modular pipeline for preparing instrument samples for Decent Sampler.**
 
 
-```mkdir -p "$HOME/.config/DecentSampler/Sample Libraries"
-```
-
-```git clone https://github.com/LAG-Lagendary/YovaOrcestraDecentSampler "$HOME/.config/DecentSampler/Sample Libraries/YovaOrcestraDecentSampler"
-```
+```mkdir -p "$HOME/.config/DecentSampler/Sample Libraries"```
 
 
+```git clone https://github.com/LAG-Lagendary/YovaOrcestraDecentSampler "$HOME/.config/DecentSampler/Sample Libraries/YovaOrcestraDecentSampler"```
 
 *Mathematical analysis: onset detection, statistical filtering, RMS normalization.*
 
