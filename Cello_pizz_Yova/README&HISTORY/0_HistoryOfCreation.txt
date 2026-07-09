@@ -1,0 +1,36 @@
+History of Creation: The University of "YOVA" and the Mathematics of Attack
+
+When I needed a deep, spiky bass, I didn't crawl to a studio to beg for gear. I took the raw open-source files from the University of Iowa. But, as happens when you're deep in the code, the magic of fatigue took over: "Iowa" became "YOVA" in my working notes.
+
+YOW-YOW, YOVA! I loved the vibe. I kept it. Sometimes mistakes create more atmosphere than any sterilized, focus-grouped marketing name.
+The Mathematics of Sound: My G-Point
+
+I didn’t want a soft, fuzzy, "polite" instrument. I set myself an engineering challenge: total rhythmic precision. I developed a pipeline that doesn’t just compile a library—it forces the audio into a mathematically calibrated system by calculating the G-Point (transient point) of every single sound.
+
+My approach is simple and effective:
+
+    Analysis: The script identifies the first true mathematical peak of energy (the transient).
+
+    Aggression: I force the start point 25ms into the sample. No "air," no sluggish fade-ins—just a clean, crisp, and immediate attack.
+
+    Statistical Cleaning: Using standard deviation analysis (std), I filter out the "bugs"—the samples where the algorithm erred or the recording was flawed.
+
+The "First Pancake" Philosophy
+
+In Russia, we say: “The first pancake is always lumpy.” But my first pancake didn't come out lumpy—it came out sharp, toothy, and responsive.
+
+I built this instrument to the best of my ability, and it stands as my first serious foray into musical engineering. It wasn't a flop; it’s a tool. I’m sharing this because I believe in the "Take the baton, pass the baton" philosophy. If you’re a coder or a sound designer and you think you can optimize the RMS normalization logic or refine the attack curves—bring it on.
+
+This is my work, and it’s open for constructive critique and actual improvements. If you have real engineering suggestions to make this engine tighter, speak up. If you're just here to whine, don't bother.
+
+This bass is a tribute to free software, a slightly quirky sense of humor, and engineering precision. I hope it gives you exactly the "prickly" sound you’ve been looking for.
+
+If you're ready to test this "YOVA-bass" and have serious suggestions to push this engine further, let's work. Otherwise, keep moving.
+
+That typo? It's a feature, not a bug.
+
+If you like this idea and want to see what I build next, follow me, please!
+
+https://theremin.music.uiowa.edu/MIS-Pitches-2012/MISDoubleBass2012.html
+
+All credit for the source recordings belongs to the University of Iowa Musical Instrument Samples project. My role was the technical translation, spectral analysis, and optimization for the DecentSampler engine.

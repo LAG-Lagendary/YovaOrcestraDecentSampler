@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<DecentSampler>
+    <ui width="812" height="375" bgImage="University of Yova. Thanks you!(green).jpg">
+        <tab name="main">
+            <label x="250" y="140" width="312" height="40" text="VIOLA PIZZ YOVA" textColor="ffffff" textSize="28"/>
+        </tab>
+    </ui>
+    <groups seqMode="round_robin" attack="0.001" release="0.15" volume="3dB">
+        <group name="Main">
+            <sample path="Samples/Viola.pizz.ff.sulC.C3.stereo.wav" start="8775" rootNote="48" loNote="48" hiNote="48" gain="-7.20dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.Db3.stereo.wav" start="7717" rootNote="49" loNote="49" hiNote="49" gain="1.42dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.D3.stereo.wav" start="8246" rootNote="50" loNote="50" hiNote="50" gain="0.57dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.Eb3.stereo.wav" start="7717" rootNote="51" loNote="51" hiNote="51" gain="0.38dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.E3.stereo.wav" start="8775" rootNote="52" loNote="52" hiNote="52" gain="-2.30dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.F3.stereo.wav" start="10804" rootNote="53" loNote="53" hiNote="53" gain="-3.20dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.Gb3.stereo.wav" start="7717" rootNote="54" loNote="54" hiNote="54" gain="-0.62dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.G3.stereo.wav" start="6218" rootNote="55" loNote="55" hiNote="55" gain="-7.72dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.G3.stereo.wav" start="7232" rootNote="55" loNote="55" hiNote="55" gain="-4.47dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.Ab3.stereo.wav" start="7232" rootNote="56" loNote="56" hiNote="56" gain="-4.71dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.Ab3.stereo.wav" start="8775" rootNote="56" loNote="56" hiNote="56" gain="-5.64dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.A3.stereo.wav" start="8775" rootNote="57" loNote="57" hiNote="57" gain="-4.26dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.A3.stereo.wav" start="6218" rootNote="57" loNote="57" hiNote="57" gain="-3.87dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.Bb3.stereo.wav" start="7232" rootNote="58" loNote="58" hiNote="58" gain="-5.53dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.Bb3.stereo.wav" start="9790" rootNote="58" loNote="58" hiNote="58" gain="-5.08dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.B3.stereo.wav" start="5159" rootNote="59" loNote="59" hiNote="59" gain="-6.69dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.B3.stereo.wav" start="7717" rootNote="59" loNote="59" hiNote="59" gain="-5.94dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.C4.stereo.wav" start="7232" rootNote="60" loNote="60" hiNote="60" gain="-5.12dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.C4.stereo.wav" start="5159" rootNote="60" loNote="60" hiNote="60" gain="-3.24dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.Db4.stereo.wav" start="7232" rootNote="61" loNote="61" hiNote="61" gain="-0.84dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.Db4.stereo.wav" start="6703" rootNote="61" loNote="61" hiNote="61" gain="-0.18dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.D4.stereo.wav" start="6703" rootNote="62" loNote="62" hiNote="62" gain="-5.81dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.D4.stereo.wav" start="8246" rootNote="62" loNote="62" hiNote="62" gain="1.70dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.D4.stereo.wav" start="4674" rootNote="62" loNote="62" hiNote="62" gain="-1.28dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.Eb4.stereo.wav" start="4674" rootNote="63" loNote="63" hiNote="63" gain="-1.14dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.Eb4.stereo.wav" start="7232" rootNote="63" loNote="63" hiNote="63" gain="3.34dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.Eb4.stereo.wav" start="7232" rootNote="63" loNote="63" hiNote="63" gain="-1.33dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.E4.stereo.wav" start="7717" rootNote="64" loNote="64" hiNote="64" gain="-1.38dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.E4.stereo.wav" start="5159" rootNote="64" loNote="64" hiNote="64" gain="-2.42dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.E4.stereo.wav" start="8775" rootNote="64" loNote="64" hiNote="64" gain="2.20dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.F4.stereo.wav" start="6703" rootNote="65" loNote="65" hiNote="65" gain="-0.67dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.F4.stereo.wav" start="7232" rootNote="65" loNote="65" hiNote="65" gain="-2.47dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.F4.stereo.wav" start="5159" rootNote="65" loNote="65" hiNote="65" gain="-2.21dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.Gb4.stereo.wav" start="8246" rootNote="66" loNote="66" hiNote="66" gain="-3.06dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.Gb4.stereo.wav" start="6703" rootNote="66" loNote="66" hiNote="66" gain="-1.59dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.Gb4.stereo.wav" start="7232" rootNote="66" loNote="66" hiNote="66" gain="-2.76dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.G4.stereo.wav" start="5159" rootNote="67" loNote="67" hiNote="67" gain="3.82dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.G4.stereo.wav" start="10804" rootNote="67" loNote="67" hiNote="67" gain="4.40dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.G4.stereo.wav" start="7717" rootNote="67" loNote="67" hiNote="67" gain="2.21dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.Ab4.stereo.wav" start="6218" rootNote="68" loNote="68" hiNote="68" gain="1.10dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.Ab4.stereo.wav" start="6218" rootNote="68" loNote="68" hiNote="68" gain="2.58dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.Ab4.stereo.wav" start="4145" rootNote="68" loNote="68" hiNote="68" gain="1.02dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.A4.stereo.wav" start="4674" rootNote="69" loNote="69" hiNote="69" gain="0.21dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.A4.stereo.wav" start="7717" rootNote="69" loNote="69" hiNote="69" gain="-3.66dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.A4.stereo.wav" start="5688" rootNote="69" loNote="69" hiNote="69" gain="-2.26dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.A4.stereo.wav" start="8775" rootNote="69" loNote="69" hiNote="69" gain="-3.05dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.Bb4.stereo.wav" start="13362" rootNote="70" loNote="70" hiNote="70" gain="0.15dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.Bb4.stereo.wav" start="7717" rootNote="70" loNote="70" hiNote="70" gain="0.08dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.Bb4.stereo.wav" start="9790" rootNote="70" loNote="70" hiNote="70" gain="0.09dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.Bb4.stereo.wav" start="5159" rootNote="70" loNote="70" hiNote="70" gain="-1.06dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.B4.stereo.wav" start="5688" rootNote="71" loNote="71" hiNote="71" gain="1.65dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.B4.stereo.wav" start="12348" rootNote="71" loNote="71" hiNote="71" gain="7.09dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.B4.stereo.wav" start="13891" rootNote="71" loNote="71" hiNote="71" gain="3.01dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.B4.stereo.wav" start="4674" rootNote="71" loNote="71" hiNote="71" gain="-1.50dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulC.C5.stereo.wav" start="6703" rootNote="72" loNote="72" hiNote="72" gain="4.70dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.C5.stereo.wav" start="11333" rootNote="72" loNote="72" hiNote="72" gain="4.16dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.C5.stereo.wav" start="12877" rootNote="72" loNote="72" hiNote="72" gain="7.66dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.C5.stereo.wav" start="5159" rootNote="72" loNote="72" hiNote="72" gain="6.08dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.Db5.stereo.wav" start="10275" rootNote="73" loNote="73" hiNote="73" gain="3.61dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.Db5.stereo.wav" start="15434" rootNote="73" loNote="73" hiNote="73" gain="4.51dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.Db5.stereo.wav" start="5159" rootNote="73" loNote="73" hiNote="73" gain="4.39dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.D5.stereo.wav" start="6703" rootNote="74" loNote="74" hiNote="74" gain="5.48dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.D5.stereo.wav" start="10804" rootNote="74" loNote="74" hiNote="74" gain="5.12dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.D5.stereo.wav" start="11333" rootNote="74" loNote="74" hiNote="74" gain="2.80dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.Eb5.stereo.wav" start="23108" rootNote="75" loNote="75" hiNote="75" gain="3.59dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.Eb5.stereo.wav" start="11818" rootNote="75" loNote="75" hiNote="75" gain="2.97dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.Eb5.stereo.wav" start="10275" rootNote="75" loNote="75" hiNote="75" gain="6.53dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.E5.stereo.wav" start="6703" rootNote="76" loNote="76" hiNote="76" gain="3.82dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.E5.stereo.wav" start="20550" rootNote="76" loNote="76" hiNote="76" gain="0.86dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.E5.stereo.wav" start="12348" rootNote="76" loNote="76" hiNote="76" gain="1.18dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.F5.stereo.wav" start="7232" rootNote="77" loNote="77" hiNote="77" gain="2.60dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.F5.stereo.wav" start="19007" rootNote="77" loNote="77" hiNote="77" gain="3.17dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.F5.stereo.wav" start="11818" rootNote="77" loNote="77" hiNote="77" gain="5.05dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.Gb5.stereo.wav" start="10275" rootNote="78" loNote="78" hiNote="78" gain="8.77dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.Gb5.stereo.wav" start="5688" rootNote="78" loNote="78" hiNote="78" gain="3.93dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.Gb5.stereo.wav" start="14905" rootNote="78" loNote="78" hiNote="78" gain="7.59dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulG.G5.stereo.wav" start="14376" rootNote="79" loNote="79" hiNote="79" gain="8.47dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.G5.stereo.wav" start="12348" rootNote="79" loNote="79" hiNote="79" gain="6.98dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.G5.stereo.wav" start="13891" rootNote="79" loNote="79" hiNote="79" gain="8.15dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.Ab5.stereo.wav" start="12877" rootNote="80" loNote="80" hiNote="80" gain="7.45dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.Ab5.stereo.wav" start="14376" rootNote="80" loNote="80" hiNote="80" gain="4.97dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.A5.stereo.wav" start="8775" rootNote="81" loNote="81" hiNote="81" gain="7.40dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.A5.stereo.wav" start="22094" rootNote="81" loNote="81" hiNote="81" gain="8.70dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulA.Bb5.stereo.wav" start="13362" rootNote="82" loNote="82" hiNote="82" gain="8.59dB"/>
+            <sample path="Samples/Viola.pizz.ff.sulD.Bb5.stereo.wav" start="15920" rootNote="82" loNote="82" hiNote="82" gain="10.83dB"/>
+        </group>
+    </groups>
+</DecentSampler>

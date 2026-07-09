@@ -1,0 +1,8 @@
+filename,rms,deviation
+test-44100Hz-le-1ch-4bytes-rf64.wav,0.46159777,0.4100491
+test-44100Hz-2ch-32bit-float-le.wav,0.26464307,0.2130944
+test-8000Hz-le-2ch-1byteu.wav,0.307886,0.25633734
+test-44100Hz-le-1ch-4bytes.wav,0.46159777,0.4100491
+test-44100Hz-2ch-32bit-float-be.wav,0.26464307,0.2130944
+test-48000Hz-2ch-64bit-float-le-wavex.wav,0.2761062,0.22455753
+test-44100Hz-be-1ch-4bytes.wav,0.46159777,0.4100491

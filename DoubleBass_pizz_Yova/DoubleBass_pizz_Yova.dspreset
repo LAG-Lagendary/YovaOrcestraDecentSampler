@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<DecentSampler>
+    <ui width="812" height="375" bgImage="University of Yova. Thanks you!(Yellow).jpg">
+        <tab name="main">
+            <label x="250" y="140" width="312" height="40" text="DOUBLEBASS PIZZ YOVA" textColor="ffffff" textSize="28"/>
+        </tab>
+    </ui>
+    <groups seqMode="round_robin" attack="0.001" release="0.15" volume="3dB">
+        <group name="Main">
+            <sample path="Samples/Bass.pizz.ff.sulC.C1.stereo.wav" start="9790" rootNote="24" loNote="24" hiNote="24" gain="-7.63dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulC.Db1.stereo.wav" start="11818" rootNote="25" loNote="25" hiNote="25" gain="-8.93dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulC.D1.stereo.wav" start="9261" rootNote="26" loNote="26" hiNote="26" gain="-8.18dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulC.Eb1.stereo.wav" start="7232" rootNote="27" loNote="27" hiNote="27" gain="-5.50dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.E1.stereo.wav" start="7717" rootNote="28" loNote="28" hiNote="28" gain="-3.22dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.F1.stereo.wav" start="9790" rootNote="29" loNote="29" hiNote="29" gain="-1.60dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.Gb1.stereo.wav" start="6218" rootNote="30" loNote="30" hiNote="30" gain="-3.09dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.G1.stereo.wav" start="7232" rootNote="31" loNote="31" hiNote="31" gain="-2.96dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.Ab1.stereo.wav" start="8775" rootNote="32" loNote="32" hiNote="32" gain="0.84dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.A1.stereo.wav" start="11818" rootNote="33" loNote="33" hiNote="33" gain="-3.06dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.A1.stereo.wav" start="6703" rootNote="33" loNote="33" hiNote="33" gain="0.04dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.Bb1.stereo.wav" start="14905" rootNote="34" loNote="34" hiNote="34" gain="-2.04dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.Bb1.stereo.wav" start="9261" rootNote="34" loNote="34" hiNote="34" gain="-0.02dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.B1.stereo.wav" start="8775" rootNote="35" loNote="35" hiNote="35" gain="0.30dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.B1.stereo.wav" start="8775" rootNote="35" loNote="35" hiNote="35" gain="-1.24dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.C2.stereo.wav" start="6218" rootNote="36" loNote="36" hiNote="36" gain="-0.05dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.C2.stereo.wav" start="6703" rootNote="36" loNote="36" hiNote="36" gain="-3.52dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.Db2.stereo.wav" start="5688" rootNote="37" loNote="37" hiNote="37" gain="-2.34dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.Db2.stereo.wav" start="5688" rootNote="37" loNote="37" hiNote="37" gain="-1.08dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.D2.stereo.wav" start="5159" rootNote="38" loNote="38" hiNote="38" gain="-2.07dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.D2.stereo.wav" start="4674" rootNote="38" loNote="38" hiNote="38" gain="2.06dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.D2.stereo.wav" start="10275" rootNote="38" loNote="38" hiNote="38" gain="-10.41dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.Eb2.stereo.wav" start="6218" rootNote="39" loNote="39" hiNote="39" gain="-0.29dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.Eb2.stereo.wav" start="4674" rootNote="39" loNote="39" hiNote="39" gain="-0.50dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.Eb2.stereo.wav" start="10275" rootNote="39" loNote="39" hiNote="39" gain="-6.60dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.E2.stereo.wav" start="9261" rootNote="40" loNote="40" hiNote="40" gain="-1.52dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.E2.stereo.wav" start="5688" rootNote="40" loNote="40" hiNote="40" gain="0.03dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.E2.stereo.wav" start="6218" rootNote="40" loNote="40" hiNote="40" gain="3.46dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.F2.stereo.wav" start="7232" rootNote="41" loNote="41" hiNote="41" gain="2.92dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.F2.stereo.wav" start="8246" rootNote="41" loNote="41" hiNote="41" gain="-2.59dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.F2.stereo.wav" start="5688" rootNote="41" loNote="41" hiNote="41" gain="3.18dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.Gb2.stereo.wav" start="5159" rootNote="42" loNote="42" hiNote="42" gain="0.95dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.Gb2.stereo.wav" start="6218" rootNote="42" loNote="42" hiNote="42" gain="0.92dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.Gb2.stereo.wav" start="9261" rootNote="42" loNote="42" hiNote="42" gain="-0.83dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.G2.stereo.wav" start="6218" rootNote="43" loNote="43" hiNote="43" gain="-3.64dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.G2.stereo.wav" start="8246" rootNote="43" loNote="43" hiNote="43" gain="-2.22dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.G2.stereo.wav" start="4674" rootNote="43" loNote="43" hiNote="43" gain="2.16dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.G2.stereo.wav" start="6218" rootNote="43" loNote="43" hiNote="43" gain="1.98dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.Ab2.stereo.wav" start="5688" rootNote="44" loNote="44" hiNote="44" gain="5.09dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.Ab2.stereo.wav" start="5159" rootNote="44" loNote="44" hiNote="44" gain="3.29dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.Ab2.stereo.wav" start="12877" rootNote="44" loNote="44" hiNote="44" gain="-0.78dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.Ab2.stereo.wav" start="7232" rootNote="44" loNote="44" hiNote="44" gain="2.12dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.A2.stereo.wav" start="8246" rootNote="45" loNote="45" hiNote="45" gain="1.04dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.A2.stereo.wav" start="6218" rootNote="45" loNote="45" hiNote="45" gain="4.92dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.A2.stereo.wav" start="14376" rootNote="45" loNote="45" hiNote="45" gain="1.69dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.A2.stereo.wav" start="5688" rootNote="45" loNote="45" hiNote="45" gain="5.51dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.Bb2.stereo.wav" start="8775" rootNote="46" loNote="46" hiNote="46" gain="-1.23dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.Bb2.stereo.wav" start="19492" rootNote="46" loNote="46" hiNote="46" gain="-3.91dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.Bb2.stereo.wav" start="6703" rootNote="46" loNote="46" hiNote="46" gain="5.01dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.Bb2.stereo.wav" start="5688" rootNote="46" loNote="46" hiNote="46" gain="3.22dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.B2.stereo.wav" start="7717" rootNote="47" loNote="47" hiNote="47" gain="3.55dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.B2.stereo.wav" start="4674" rootNote="47" loNote="47" hiNote="47" gain="-1.09dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.B2.stereo.wav" start="16934" rootNote="47" loNote="47" hiNote="47" gain="-1.93dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.B2.stereo.wav" start="22579" rootNote="47" loNote="47" hiNote="47" gain="5.41dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.C3.stereo.wav" start="9790" rootNote="48" loNote="48" hiNote="48" gain="2.24dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.C3.stereo.wav" start="6218" rootNote="48" loNote="48" hiNote="48" gain="-3.45dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.C3.stereo.wav" start="5688" rootNote="48" loNote="48" hiNote="48" gain="4.93dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.C3.stereo.wav" start="5159" rootNote="48" loNote="48" hiNote="48" gain="0.62dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.Db3.stereo.wav" start="10275" rootNote="49" loNote="49" hiNote="49" gain="4.98dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.Db3.stereo.wav" start="5159" rootNote="49" loNote="49" hiNote="49" gain="-2.54dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.Db3.stereo.wav" start="5159" rootNote="49" loNote="49" hiNote="49" gain="1.15dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.Db3.stereo.wav" start="6218" rootNote="49" loNote="49" hiNote="49" gain="3.04dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.D3.stereo.wav" start="9790" rootNote="50" loNote="50" hiNote="50" gain="2.09dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.D3.stereo.wav" start="5159" rootNote="50" loNote="50" hiNote="50" gain="6.74dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.D3.stereo.wav" start="8246" rootNote="50" loNote="50" hiNote="50" gain="4.80dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.D3.stereo.wav" start="5688" rootNote="50" loNote="50" hiNote="50" gain="5.02dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.Eb3.stereo.wav" start="11818" rootNote="51" loNote="51" hiNote="51" gain="5.85dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.Eb3.stereo.wav" start="10804" rootNote="51" loNote="51" hiNote="51" gain="4.05dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.Eb3.stereo.wav" start="14376" rootNote="51" loNote="51" hiNote="51" gain="8.49dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.Eb3.stereo.wav" start="5688" rootNote="51" loNote="51" hiNote="51" gain="-0.93dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.E3.stereo.wav" start="9790" rootNote="52" loNote="52" hiNote="52" gain="3.06dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.E3.stereo.wav" start="5688" rootNote="52" loNote="52" hiNote="52" gain="5.87dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.E3.stereo.wav" start="10804" rootNote="52" loNote="52" hiNote="52" gain="6.83dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulE.E3.stereo.wav" start="5159" rootNote="52" loNote="52" hiNote="52" gain="6.52dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.F3.stereo.wav" start="13891" rootNote="53" loNote="53" hiNote="53" gain="4.01dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.F3.stereo.wav" start="4674" rootNote="53" loNote="53" hiNote="53" gain="-0.79dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.F3.stereo.wav" start="17992" rootNote="53" loNote="53" hiNote="53" gain="-2.16dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.Gb3.stereo.wav" start="9261" rootNote="54" loNote="54" hiNote="54" gain="2.70dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.Gb3.stereo.wav" start="7717" rootNote="54" loNote="54" hiNote="54" gain="1.57dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.Gb3.stereo.wav" start="11818" rootNote="54" loNote="54" hiNote="54" gain="-1.13dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.G3.stereo.wav" start="7717" rootNote="55" loNote="55" hiNote="55" gain="9.27dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.G3.stereo.wav" start="11333" rootNote="55" loNote="55" hiNote="55" gain="6.43dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.G3.stereo.wav" start="19492" rootNote="55" loNote="55" hiNote="55" gain="3.17dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.Ab3.stereo.wav" start="20550" rootNote="56" loNote="56" hiNote="56" gain="0.23dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.Ab3.stereo.wav" start="6703" rootNote="56" loNote="56" hiNote="56" gain="6.28dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.Ab3.stereo.wav" start="9790" rootNote="56" loNote="56" hiNote="56" gain="6.17dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulG.A3.stereo.wav" start="11333" rootNote="57" loNote="57" hiNote="57" gain="2.16dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulA.A3.stereo.wav" start="4674" rootNote="57" loNote="57" hiNote="57" gain="7.82dB"/>
+            <sample path="Samples/Bass.pizz.ff.sulD.A3.stereo.wav" start="10275" rootNote="57" loNote="57" hiNote="57" gain="6.71dB"/>
+        </group>
+    </groups>
+</DecentSampler>

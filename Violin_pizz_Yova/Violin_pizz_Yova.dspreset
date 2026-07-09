@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<DecentSampler>
+    <ui width="812" height="375" bgImage="University of Yova. Thanks you!(red).jpg">
+        <tab name="main">
+            <label x="250" y="140" width="312" height="40" text="VIOLIN PIZZ YOVA" textColor="ffffff" textSize="28"/>
+        </tab>
+    </ui>
+    <groups seqMode="round_robin" attack="0.001" release="0.15" volume="3dB">
+        <group name="Main">
+            <sample path="Samples/Violin.pizz.ff.sulG.G3.stereo.wav" start="6218" rootNote="55" loNote="55" hiNote="55" gain="3.92dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.Ab3.stereo.wav" start="4674" rootNote="56" loNote="56" hiNote="56" gain="-1.61dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.A3.stereo.wav" start="4145" rootNote="57" loNote="57" hiNote="57" gain="3.51dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.Bb3.stereo.wav" start="5159" rootNote="58" loNote="58" hiNote="58" gain="1.36dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.B3.stereo.wav" start="4674" rootNote="59" loNote="59" hiNote="59" gain="-2.97dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.C4.stereo.wav" start="5159" rootNote="60" loNote="60" hiNote="60" gain="-3.23dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.Db4.stereo.wav" start="4145" rootNote="61" loNote="61" hiNote="61" gain="-4.03dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.D4.stereo.wav" start="8246" rootNote="62" loNote="62" hiNote="62" gain="4.28dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.D4.stereo.wav" start="5688" rootNote="62" loNote="62" hiNote="62" gain="-4.28dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.Eb4.stereo.wav" start="8246" rootNote="63" loNote="63" hiNote="63" gain="-2.59dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.Eb4.stereo.wav" start="5688" rootNote="63" loNote="63" hiNote="63" gain="-4.34dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.E4.stereo.wav" start="5688" rootNote="64" loNote="64" hiNote="64" gain="-3.50dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.E4.stereo.wav" start="9261" rootNote="64" loNote="64" hiNote="64" gain="0.26dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.F4.stereo.wav" start="7717" rootNote="65" loNote="65" hiNote="65" gain="-3.60dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.F4.stereo.wav" start="6218" rootNote="65" loNote="65" hiNote="65" gain="1.34dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.Gb4.stereo.wav" start="3131" rootNote="66" loNote="66" hiNote="66" gain="-2.15dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.Gb4.stereo.wav" start="7717" rootNote="66" loNote="66" hiNote="66" gain="-0.03dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.G4.stereo.wav" start="8246" rootNote="67" loNote="67" hiNote="67" gain="-1.29dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.G4.stereo.wav" start="2601" rootNote="67" loNote="67" hiNote="67" gain="-4.47dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.Ab4.stereo.wav" start="6218" rootNote="68" loNote="68" hiNote="68" gain="-1.36dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.Ab4.stereo.wav" start="3131" rootNote="68" loNote="68" hiNote="68" gain="-8.24dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.A4.stereo.wav" start="3660" rootNote="69" loNote="69" hiNote="69" gain="-5.32dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.A4.stereo.wav" start="2601" rootNote="69" loNote="69" hiNote="69" gain="0.05dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.A4.stereo.wav" start="6703" rootNote="69" loNote="69" hiNote="69" gain="-3.56dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.Bb4.stereo.wav" start="4145" rootNote="70" loNote="70" hiNote="70" gain="-4.26dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.Bb4.stereo.wav" start="9790" rootNote="70" loNote="70" hiNote="70" gain="4.63dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.Bb4.stereo.wav" start="3660" rootNote="70" loNote="70" hiNote="70" gain="-6.60dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.B4.stereo.wav" start="6218" rootNote="71" loNote="71" hiNote="71" gain="-2.25dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.B4.stereo.wav" start="2601" rootNote="71" loNote="71" hiNote="71" gain="15.83dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.B4.stereo.wav" start="2601" rootNote="71" loNote="71" hiNote="71" gain="-7.06dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.C5.stereo.wav" start="6218" rootNote="72" loNote="72" hiNote="72" gain="-1.03dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.C5.stereo.wav" start="6218" rootNote="72" loNote="72" hiNote="72" gain="1.25dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.C5.stereo.wav" start="9261" rootNote="72" loNote="72" hiNote="72" gain="1.06dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.Db5.stereo.wav" start="4674" rootNote="73" loNote="73" hiNote="73" gain="-2.49dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.Db5.stereo.wav" start="8775" rootNote="73" loNote="73" hiNote="73" gain="4.33dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.Db5.stereo.wav" start="9790" rootNote="73" loNote="73" hiNote="73" gain="2.59dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.D5.stereo.wav" start="3660" rootNote="74" loNote="74" hiNote="74" gain="4.80dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.D5.stereo.wav" start="7232" rootNote="74" loNote="74" hiNote="74" gain="-3.40dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.D5.stereo.wav" start="6703" rootNote="74" loNote="74" hiNote="74" gain="-2.43dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.Eb5.stereo.wav" start="4145" rootNote="75" loNote="75" hiNote="75" gain="-2.23dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.Eb5.stereo.wav" start="8246" rootNote="75" loNote="75" hiNote="75" gain="4.69dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.Eb5.stereo.wav" start="6703" rootNote="75" loNote="75" hiNote="75" gain="0.58dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.E5.stereo.wav" start="5688" rootNote="76" loNote="76" hiNote="76" gain="0.96dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulG.E5.stereo.wav" start="5688" rootNote="76" loNote="76" hiNote="76" gain="0.87dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulE.E5.stereo.wav" start="2601" rootNote="76" loNote="76" hiNote="76" gain="10.54dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.E5.stereo.wav" start="3660" rootNote="76" loNote="76" hiNote="76" gain="8.70dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.F5.stereo.wav" start="3131" rootNote="77" loNote="77" hiNote="77" gain="-4.42dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulE.F5.stereo.wav" start="2601" rootNote="77" loNote="77" hiNote="77" gain="9.89dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.F5.stereo.wav" start="6703" rootNote="77" loNote="77" hiNote="77" gain="10.34dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulE.Gb5.stereo.wav" start="2601" rootNote="78" loNote="78" hiNote="78" gain="8.10dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.Gb5.stereo.wav" start="7232" rootNote="78" loNote="78" hiNote="78" gain="8.17dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.Gb5.stereo.wav" start="5159" rootNote="78" loNote="78" hiNote="78" gain="1.52dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulE.G5.stereo.wav" start="2601" rootNote="79" loNote="79" hiNote="79" gain="6.02dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.G5.stereo.wav" start="3660" rootNote="79" loNote="79" hiNote="79" gain="-0.08dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.G5.stereo.wav" start="3660" rootNote="79" loNote="79" hiNote="79" gain="1.78dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.Ab5.stereo.wav" start="3131" rootNote="80" loNote="80" hiNote="80" gain="-3.49dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.Ab5.stereo.wav" start="3131" rootNote="80" loNote="80" hiNote="80" gain="4.75dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulE.Ab5.stereo.wav" start="2601" rootNote="80" loNote="80" hiNote="80" gain="8.09dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.A5.stereo.wav" start="2601" rootNote="81" loNote="81" hiNote="81" gain="-4.45dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulE.A5.stereo.wav" start="2601" rootNote="81" loNote="81" hiNote="81" gain="3.19dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.A5.stereo.wav" start="3131" rootNote="81" loNote="81" hiNote="81" gain="10.07dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulE.Bb5.stereo.wav" start="2601" rootNote="82" loNote="82" hiNote="82" gain="3.10dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.Bb5.stereo.wav" start="7232" rootNote="82" loNote="82" hiNote="82" gain="-0.24dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.Bb5.stereo.wav" start="4674" rootNote="82" loNote="82" hiNote="82" gain="5.83dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.B5.stereo.wav" start="8775" rootNote="83" loNote="83" hiNote="83" gain="8.91dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.B5.stereo.wav" start="4145" rootNote="83" loNote="83" hiNote="83" gain="-3.81dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulE.B5.stereo.wav" start="2601" rootNote="83" loNote="83" hiNote="83" gain="3.04dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulE.C6.stereo.wav" start="2601" rootNote="84" loNote="84" hiNote="84" gain="2.79dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulD.C6.stereo.wav" start="3131" rootNote="84" loNote="84" hiNote="84" gain="-5.24dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.C6.stereo.wav" start="3660" rootNote="84" loNote="84" hiNote="84" gain="8.69dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.Db6.stereo.wav" start="4674" rootNote="85" loNote="85" hiNote="85" gain="3.89dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulE.Db6.stereo.wav" start="2601" rootNote="85" loNote="85" hiNote="85" gain="2.75dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulE.D6.stereo.wav" start="2601" rootNote="86" loNote="86" hiNote="86" gain="2.68dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.D6.stereo.wav" start="6703" rootNote="86" loNote="86" hiNote="86" gain="4.73dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulE.Eb6.stereo.wav" start="2601" rootNote="87" loNote="87" hiNote="87" gain="5.35dB"/>
+            <sample path="Samples/Violin.pizz.ff.sulA.Eb6.stereo.wav" start="4674" rootNote="87" loNote="87" hiNote="87" gain="12.69dB"/>
+        </group>
+    </groups>
+</DecentSampler>

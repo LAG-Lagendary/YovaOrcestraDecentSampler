@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<DecentSampler>
+    <ui width="812" height="375" bgImage="University of Yova. Thanks you!(blue).jpg">
+        <tab name="main">
+            <label x="250" y="140" width="312" height="40" text="CELLO PIZZ YOVA" textColor="ffffff" textSize="28"/>
+        </tab>
+    </ui>
+    <groups seqMode="round_robin" attack="0.001" release="0.15" volume="3dB">
+        <group name="Main">
+            <sample path="Samples/Cello.pizz.ff.sulC.C2.stereo.wav" start="6703" rootNote="36" loNote="36" hiNote="36" gain="-9.88dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.Db2.stereo.wav" start="8775" rootNote="37" loNote="37" hiNote="37" gain="-2.87dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.D2.stereo.wav" start="7232" rootNote="38" loNote="38" hiNote="38" gain="1.15dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.Eb2.stereo.wav" start="8246" rootNote="39" loNote="39" hiNote="39" gain="0.03dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.E2.stereo.wav" start="6218" rootNote="40" loNote="40" hiNote="40" gain="3.23dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.F2.stereo.wav" start="9261" rootNote="41" loNote="41" hiNote="41" gain="0.92dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.Gb2.stereo.wav" start="5159" rootNote="42" loNote="42" hiNote="42" gain="0.46dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.G2.stereo.wav" start="6703" rootNote="43" loNote="43" hiNote="43" gain="-7.07dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.G2.stereo.wav" start="5688" rootNote="43" loNote="43" hiNote="43" gain="-2.92dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.Ab2.stereo.wav" start="6703" rootNote="44" loNote="44" hiNote="44" gain="-4.84dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.Ab2.stereo.wav" start="4674" rootNote="44" loNote="44" hiNote="44" gain="-6.87dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.A2.stereo.wav" start="5688" rootNote="45" loNote="45" hiNote="45" gain="-3.21dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.A2.stereo.wav" start="7232" rootNote="45" loNote="45" hiNote="45" gain="-5.59dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.Bb2.stereo.wav" start="5688" rootNote="46" loNote="46" hiNote="46" gain="-4.98dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.Bb2.stereo.wav" start="6703" rootNote="46" loNote="46" hiNote="46" gain="-1.46dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.B2.stereo.wav" start="5688" rootNote="47" loNote="47" hiNote="47" gain="-1.40dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.B2.stereo.wav" start="4674" rootNote="47" loNote="47" hiNote="47" gain="-5.03dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.C3.stereo.wav" start="5159" rootNote="48" loNote="48" hiNote="48" gain="-0.50dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.C3.stereo.wav" start="3131" rootNote="48" loNote="48" hiNote="48" gain="-4.34dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.Db3.stereo.wav" start="4674" rootNote="49" loNote="49" hiNote="49" gain="-4.26dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.Db3.stereo.wav" start="5688" rootNote="49" loNote="49" hiNote="49" gain="-1.15dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.D3.stereo.wav" start="5159" rootNote="50" loNote="50" hiNote="50" gain="0.38dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.D3.stereo.wav" start="4674" rootNote="50" loNote="50" hiNote="50" gain="-1.93dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.D3.stereo.wav" start="9790" rootNote="50" loNote="50" hiNote="50" gain="-6.42dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.Eb3.stereo.wav" start="5159" rootNote="51" loNote="51" hiNote="51" gain="3.42dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.Eb3.stereo.wav" start="8246" rootNote="51" loNote="51" hiNote="51" gain="-1.35dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.Eb3.stereo.wav" start="6218" rootNote="51" loNote="51" hiNote="51" gain="2.03dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.E3.stereo.wav" start="5159" rootNote="52" loNote="52" hiNote="52" gain="1.55dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.E3.stereo.wav" start="4674" rootNote="52" loNote="52" hiNote="52" gain="2.50dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.E3.stereo.wav" start="7232" rootNote="52" loNote="52" hiNote="52" gain="0.25dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.F3.stereo.wav" start="4674" rootNote="53" loNote="53" hiNote="53" gain="3.05dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.F3.stereo.wav" start="6218" rootNote="53" loNote="53" hiNote="53" gain="1.09dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.F3.stereo.wav" start="4145" rootNote="53" loNote="53" hiNote="53" gain="-0.77dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.Gb3.stereo.wav" start="5159" rootNote="54" loNote="54" hiNote="54" gain="2.69dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.Gb3.stereo.wav" start="5159" rootNote="54" loNote="54" hiNote="54" gain="-1.03dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.Gb3.stereo.wav" start="7717" rootNote="54" loNote="54" hiNote="54" gain="-0.14dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.G3.stereo.wav" start="7232" rootNote="55" loNote="55" hiNote="55" gain="1.11dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.G3.stereo.wav" start="7232" rootNote="55" loNote="55" hiNote="55" gain="-0.29dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.G3.stereo.wav" start="5159" rootNote="55" loNote="55" hiNote="55" gain="0.02dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.Ab3.stereo.wav" start="7717" rootNote="56" loNote="56" hiNote="56" gain="1.37dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.Ab3.stereo.wav" start="4674" rootNote="56" loNote="56" hiNote="56" gain="-1.11dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.Ab3.stereo.wav" start="5688" rootNote="56" loNote="56" hiNote="56" gain="-0.04dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.A3.stereo.wav" start="4145" rootNote="57" loNote="57" hiNote="57" gain="6.51dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.A3.stereo.wav" start="5159" rootNote="57" loNote="57" hiNote="57" gain="-2.77dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.A3.stereo.wav" start="8246" rootNote="57" loNote="57" hiNote="57" gain="2.10dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.A3.stereo.wav" start="6218" rootNote="57" loNote="57" hiNote="57" gain="3.94dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.Bb3.stereo.wav" start="8246" rootNote="58" loNote="58" hiNote="58" gain="-2.43dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.Bb3.stereo.wav" start="4674" rootNote="58" loNote="58" hiNote="58" gain="4.59dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.Bb3.stereo.wav" start="6218" rootNote="58" loNote="58" hiNote="58" gain="0.87dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.Bb3.stereo.wav" start="8246" rootNote="58" loNote="58" hiNote="58" gain="2.87dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.B3.stereo.wav" start="4145" rootNote="59" loNote="59" hiNote="59" gain="5.72dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.B3.stereo.wav" start="6703" rootNote="59" loNote="59" hiNote="59" gain="2.83dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.B3.stereo.wav" start="8775" rootNote="59" loNote="59" hiNote="59" gain="2.87dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.B3.stereo.wav" start="6218" rootNote="59" loNote="59" hiNote="59" gain="4.86dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.C4.stereo.wav" start="6218" rootNote="60" loNote="60" hiNote="60" gain="2.29dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.C4.stereo.wav" start="5688" rootNote="60" loNote="60" hiNote="60" gain="4.01dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.C4.stereo.wav" start="8775" rootNote="60" loNote="60" hiNote="60" gain="3.57dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulC.C4.stereo.wav" start="4145" rootNote="60" loNote="60" hiNote="60" gain="4.57dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.Db4.stereo.wav" start="7232" rootNote="61" loNote="61" hiNote="61" gain="-0.60dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.Db4.stereo.wav" start="9261" rootNote="61" loNote="61" hiNote="61" gain="3.44dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.Db4.stereo.wav" start="7717" rootNote="61" loNote="61" hiNote="61" gain="3.96dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.D4.stereo.wav" start="6703" rootNote="62" loNote="62" hiNote="62" gain="2.34dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.D4.stereo.wav" start="5688" rootNote="62" loNote="62" hiNote="62" gain="-2.09dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.D4.stereo.wav" start="8775" rootNote="62" loNote="62" hiNote="62" gain="4.01dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.Eb4.stereo.wav" start="7717" rootNote="63" loNote="63" hiNote="63" gain="-2.28dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.Eb4.stereo.wav" start="7717" rootNote="63" loNote="63" hiNote="63" gain="6.59dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.Eb4.stereo.wav" start="9790" rootNote="63" loNote="63" hiNote="63" gain="4.23dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.E4.stereo.wav" start="7717" rootNote="64" loNote="64" hiNote="64" gain="5.16dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.E4.stereo.wav" start="6218" rootNote="64" loNote="64" hiNote="64" gain="4.54dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.E4.stereo.wav" start="8246" rootNote="64" loNote="64" hiNote="64" gain="0.72dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.F4.stereo.wav" start="8246" rootNote="65" loNote="65" hiNote="65" gain="2.89dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.F4.stereo.wav" start="7232" rootNote="65" loNote="65" hiNote="65" gain="3.96dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.F4.stereo.wav" start="7232" rootNote="65" loNote="65" hiNote="65" gain="0.25dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.Gb4.stereo.wav" start="7232" rootNote="66" loNote="66" hiNote="66" gain="3.78dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.Gb4.stereo.wav" start="6703" rootNote="66" loNote="66" hiNote="66" gain="-1.71dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.Gb4.stereo.wav" start="7717" rootNote="66" loNote="66" hiNote="66" gain="4.59dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.G4.stereo.wav" start="6703" rootNote="67" loNote="67" hiNote="67" gain="-2.60dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulG.G4.stereo.wav" start="7717" rootNote="67" loNote="67" hiNote="67" gain="6.07dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.G4.stereo.wav" start="6703" rootNote="67" loNote="67" hiNote="67" gain="2.95dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.Ab4.stereo.wav" start="7232" rootNote="68" loNote="68" hiNote="68" gain="4.94dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.Ab4.stereo.wav" start="6218" rootNote="68" loNote="68" hiNote="68" gain="-1.10dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.A4.stereo.wav" start="6703" rootNote="69" loNote="69" hiNote="69" gain="4.70dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.A4.stereo.wav" start="6703" rootNote="69" loNote="69" hiNote="69" gain="6.18dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulA.Bb4.stereo.wav" start="8246" rootNote="70" loNote="70" hiNote="70" gain="3.51dB"/>
+            <sample path="Samples/Cello.pizz.ff.sulD.Bb4.stereo.wav" start="7232" rootNote="70" loNote="70" hiNote="70" gain="5.76dB"/>
+        </group>
+    </groups>
+</DecentSampler>
