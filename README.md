@@ -15,7 +15,11 @@ All operations are performed in the venv virtual environment.
 *Note: If you manually rename files in `Samples/`, you must update the CSV files.*
 
 Preparation and conversion
-If the source files are in .aif format, convert them to wav: Bash# Run in the project folder
+
+If the source files are in .aif format, convert them to wav: 
+
+Bash
+# Run in the project folder
 
 ./1.convert.sh
 
