@@ -1,0 +1,21 @@
+__________________________________________________________________________
+| MIDI | INSTRUMENT NAME | GROUP NAME | MAPPING SOURCE                     |
+|------|-----------------|------------|------------------------------------|
+| 22/42| Hi-Hat Closed   | HH_Closed  | Roland TD-11 / GM Standard         |
+| 26/46| Hi-Hat Open     | HH_Open    | Roland TD-11 / GM Standard         |
+| 35/36| Kick Drum       | Kick       | GM Standard                        |
+| 37   | Side Stick      | SideStick  | GM Standard                        |
+| 38   | Acoustic Snare  | Snare      | GM Standard                        |
+| 40   | Electric Snare  | Snare_Rim  | GM Standard (Rimshot)              |
+| 43/58| Tom Low (Floor) | Tom3       | Roland TD-11 / GM Standard         |
+| 44   | Pedal Hi-Hat    | HH_Pedal   | GM Standard                        |
+| 45   | Tom Mid         | Tom2       | GM Standard                        |
+| 48   | Tom High        | Tom1       | GM Standard                        |
+| 49   | Crash Cymbal 1  | Crash1     | GM Standard                        |
+| 51/59| Ride Bow/Edge   | Ride       | Roland TD-11 / GM Standard         |
+| 52   | China Cymbal    | China      | GM Standard                        |
+| 53   | Ride Bell       | Ride_Bell  | GM Standard                        |
+| 55   | Splash Cymbal   | Splash     | GM Standard                        |
+| 56   | Cowbell         | Cowbell    | GM Standard                        |
+| 57   | Crash Cymbal 2  | Crash2     | GM Standard                        |
+|______|_________________|____________|____________________________________|

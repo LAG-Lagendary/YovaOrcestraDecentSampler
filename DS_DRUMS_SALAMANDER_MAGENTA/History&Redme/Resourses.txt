@@ -1,0 +1,3 @@
+https://magenta.withgoogle.com/datasets/groove
+
+https://github.com/endolith/Salamander-Drumkit

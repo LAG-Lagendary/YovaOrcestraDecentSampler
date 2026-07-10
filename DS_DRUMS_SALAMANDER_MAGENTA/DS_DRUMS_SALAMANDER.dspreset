@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DecentSampler>
+    <ui width="800" height="400" layoutMode="relative" bgMode="top_left">
+        <keyboard>
+            <image path="DS_DRUMS_SALAMANDER.jpg" />
+        </keyboard>
+    </ui>
+
+    <groups attack="0.001" release="0.15" volume="3dB" seqMode="round_robin">
+
+        <group name="Kick">
+            <sample loNote="35" hiNote="35" path="Samples/kick_OH_FF_1.wav" />
+            <sample loNote="35" hiNote="35" path="Samples/kick_OH_FF_2.wav" />
+            <sample loNote="35" hiNote="35" path="Samples/kick_OH_FF_3.wav" />
+        </group>
+
+        <group name="Snare">
+            <sample loNote="38" hiNote="38" path="Samples/snare_OH_FF_1.wav" />
+            <sample loNote="38" hiNote="38" path="Samples/snare_OH_FF_2.wav" />
+            <sample loNote="38" hiNote="38" path="Samples/snare_OH_FF_3.wav" />
+        </group>
+        <group name="SideStick">
+            <sample loNote="37" hiNote="37" path="Samples/snareStick_OH_F_1.wav" />
+            <sample loNote="37" hiNote="37" path="Samples/snareStick_OH_F_2.wav" />
+            <sample loNote="37" hiNote="37" path="Samples/snareStick_OH_F_3.wav" />
+        </group>
+        <group name="SnareRim">
+            <sample loNote="40" hiNote="40" path="Samples/snare2_OH_FF_1.wav" />
+            <sample loNote="40" hiNote="40" path="Samples/snare2_OH_FF_2.wav" />
+            <sample loNote="40" hiNote="40" path="Samples/snare2_OH_FF_3.wav" />
+        </group>
+
+        <group name="HH_Closed">
+            <sample loNote="42" hiNote="42" path="Samples/hihatClosed_OH_F_1.wav" />
+            <sample loNote="42" hiNote="42" path="Samples/hihatClosed_OH_F_2.wav" />
+            <sample loNote="42" hiNote="42" path="Samples/hihatClosed_OH_F_3.wav" />
+        </group>
+        <group name="HH_Foot">
+            <sample loNote="44" hiNote="44" path="Samples/hihatFoot_OH_MP_1.wav" />
+            <sample loNote="44" hiNote="44" path="Samples/hihatFoot_OH_MP_2.wav" />
+            <sample loNote="44" hiNote="44" path="Samples/hihatFoot_OH_MP_3.wav" />
+        </group>
+        <group name="HH_Open">
+            <sample loNote="46" hiNote="46" path="Samples/hihatOpen_OH_FF_1.wav" />
+            <sample loNote="46" hiNote="46" path="Samples/hihatOpen_OH_FF_2.wav" />
+            <sample loNote="46" hiNote="46" path="Samples/hihatOpen_OH_FF_3.wav" />
+        </group>
+
+        <group name="Tom_High">
+            <sample loNote="48" hiNote="48" path="Samples/hiTom_OH_FF_1.wav" />
+            <sample loNote="48" hiNote="48" path="Samples/hiTom_OH_FF_2.wav" />
+            <sample loNote="48" hiNote="48" path="Samples/hiTom_OH_FF_3.wav" />
+        </group>
+        <group name="Tom_Mid">
+            <sample loNote="45" hiNote="45" path="Samples/loTom_OH_FF_1.wav" />
+            <sample loNote="45" hiNote="45" path="Samples/loTom_OH_FF_2.wav" />
+            <sample loNote="45" hiNote="45" path="Samples/loTom_OH_FF_3.wav" />
+        </group>
+        <group name="Tom_Low">
+            <sample loNote="43" hiNote="43" path="Samples/loTom_OH_MP_1.wav" />
+            <sample loNote="43" hiNote="43" path="Samples/loTom_OH_MP_2.wav" />
+            <sample loNote="43" hiNote="43" path="Samples/loTom_OH_MP_3.wav" />
+        </group>
+
+        <group name="Crash1">
+            <sample loNote="49" hiNote="49" path="Samples/crash1_OH_FF_1.wav" />
+            <sample loNote="49" hiNote="49" path="Samples/crash1_OH_FF_2.wav" />
+            <sample loNote="49" hiNote="49" path="Samples/crash1_OH_FF_3.wav" />
+        </group>
+        <group name="Ride">
+            <sample loNote="51" hiNote="51" path="Samples/ride1_OH_FF_1.wav" />
+            <sample loNote="51" hiNote="51" path="Samples/ride1_OH_FF_2.wav" />
+            <sample loNote="51" hiNote="51" path="Samples/ride1_OH_FF_3.wav" />
+        </group>
+        <group name="Ride_Bell">
+            <sample loNote="53" hiNote="53" path="Samples/ride1Bell_OH_F_1.wav" />
+            <sample loNote="53" hiNote="53" path="Samples/ride1Bell_OH_F_2.wav" />
+            <sample loNote="53" hiNote="53" path="Samples/ride1Bell_OH_F_3.wav" />
+        </group>
+        <group name="China">
+            <sample loNote="52" hiNote="52" path="Samples/china1_OH_FF_1.wav" />
+            <sample loNote="52" hiNote="52" path="Samples/china1_OH_FF_2.wav" />
+            <sample loNote="52" hiNote="52" path="Samples/china1_OH_FF_3.wav" />
+        </group>
+        <group name="Splash">
+            <sample loNote="55" hiNote="55" path="Samples/splash1_OH_F_1.wav" />
+            <sample loNote="55" hiNote="55" path="Samples/splash1_OH_F_2.wav" />
+            <sample loNote="55" hiNote="55" path="Samples/splash1_OH_F_3.wav" />
+        </group>
+        <group name="Cowbell">
+            <sample loNote="56" hiNote="56" path="Samples/cowbell_FF_1.wav" />
+            <sample loNote="56" hiNote="56" path="Samples/cowbell_FF_2.wav" />
+            <sample loNote="56" hiNote="56" path="Samples/cowbell_FF_3.wav" />
+        </group>
+
+    </groups>
+</DecentSampler>
